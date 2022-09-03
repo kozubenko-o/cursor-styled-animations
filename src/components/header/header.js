@@ -6,15 +6,15 @@ function Header() {
         <>
             <Nav>
                 <NavMenu>
-                    <NavLink to='cursor-styled-animations/'>
+                    <NavLink to='/'>
                         <h1>Home</h1>
                     </NavLink>
                 </NavMenu>
                 <NavBtn>
-                    <NavBtnLink to={'cursor-styled-animations/sing-in'}>
+                    <NavBtnLink to={'/sing-in'}>
                         Sing In
                     </NavBtnLink>
-                    <NavBtnLink to={'cursor-styled-animations/sing-up'}>
+                    <NavBtnLink to={'/sing-up'}>
                         Sing Up
                     </NavBtnLink>
                 </NavBtn>
