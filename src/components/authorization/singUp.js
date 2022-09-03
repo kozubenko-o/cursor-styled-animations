@@ -181,7 +181,7 @@ function SingUp() {
                 </CheckboxPosition>
                 <Button>SING UP</Button>
             <FlexRight>
-                <URL to={'/sing-in'}>Already have an account? Sing In</URL>
+                <URL to={'cursor-styled-animations/sing-in'}>Already have an account? Sing In</URL>
             </FlexRight>
         </SingStyle>
         </form>

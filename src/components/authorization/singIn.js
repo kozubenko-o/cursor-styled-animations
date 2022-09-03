@@ -105,8 +105,8 @@ function SingIn() {
             </CheckboxPosition>
             <Button>SING IN</Button>
             <FlexSpaceBetween>
-                <URL to={'/sing-in'}>Forgot password?</URL>
-                <URL to={'/sing-up'}>Don't have an account? Sing Up</URL>
+                <URL to={'cursor-styled-animations/sing-up'}>Forgot password?</URL>
+                <URL to={'cursor-styled-animations/sing-up'}>Don't have an account? Sing Up</URL>
             </FlexSpaceBetween>
         </SingStyle>
         </form>
