@@ -6,7 +6,7 @@ function Header() {
         <>
             <Nav>
                 <NavMenu>
-                    <NavLink to='/'>
+                    <NavLink to='cursor-styled-animations/'>
                         <h1>Home</h1>
                     </NavLink>
                 </NavMenu>
